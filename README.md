@@ -1,7 +1,7 @@
 # DuffelBlog
 Data &amp; statistics on Duffel Blog, the American military's most trusted news source
 
-This project consists of three files:
+## This project consists of three files:
     DuffelBlogStories.csv
         This CSV file lists every known Duffel Blog story available on their website. Each line
         identifies the story's publication datetime, the reporter's name, the title (aka headline),
