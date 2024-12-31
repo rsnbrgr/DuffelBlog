@@ -1,5 +1,5 @@
 # Duffel Blog
-Data &amp; statistics on the American military's most trusted news source
+Data &amp; statistics on the American military's most trusted news source. This is NOT a Duffel Blog product.
 
 ## This project consists of three files:
 ### Duffel Blog Data and Stats.PDF
